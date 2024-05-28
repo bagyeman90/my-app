@@ -1,0 +1,365 @@
+lock: {
+    "Created": "2024-05-22T22:38:37.671701Z",
+    "ID": "e25ac544-6b71-e818-c043-7c6828abbca3",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+unlock: {
+    "Created": "2024-05-22T22:38:37.671701Z",
+    "ID": "e25ac544-6b71-e818-c043-7c6828abbca3",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T22:41:10.042073Z",
+    "ID": "8823a1ea-a47b-4045-c642-f9947f25910b",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+unlock: {
+    "Created": "2024-05-22T22:41:10.042073Z",
+    "ID": "8823a1ea-a47b-4045-c642-f9947f25910b",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T22:41:43.145831Z",
+    "ID": "a5e3eac4-d7f1-37d9-dde6-634765112d7d",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+unlock: {
+    "Created": "2024-05-22T22:41:43.145831Z",
+    "ID": "a5e3eac4-d7f1-37d9-dde6-634765112d7d",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T22:43:59.8931Z",
+    "ID": "6e3f848e-116c-09d4-40cf-b50745eda1d4",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+unlock: {
+    "Created": "2024-05-22T22:43:59.8931Z",
+    "ID": "6e3f848e-116c-09d4-40cf-b50745eda1d4",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T22:44:41.195169Z",
+    "ID": "8e830a68-76ab-e4fa-0c65-2a9c46407729",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_write: {
+    "check_results": null,
+    "lineage": "736faddb-7c5a-d04c-d8d9-d3dda294c0cd",
+    "outputs": {},
+    "resources": [],
+    "serial": 1,
+    "terraform_version": "1.8.3",
+    "version": 4
+}
+unlock: {
+    "Created": "2024-05-22T22:44:41.195169Z",
+    "ID": "8e830a68-76ab-e4fa-0c65-2a9c46407729",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+lock: {
+    "Created": "2024-05-22T22:48:08.429181Z",
+    "ID": "ccc290c5-274c-136e-9fca-735c97518d99",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+unlock: {
+    "Created": "2024-05-22T22:48:08.429181Z",
+    "ID": "ccc290c5-274c-136e-9fca-735c97518d99",
+    "Info": "",
+    "Operation": "OperationTypePlan",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T22:48:13.630025Z",
+    "ID": "55bbaa1b-7234-ad45-494b-37132f419fdf",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+unlock: {
+    "Created": "2024-05-22T22:48:13.630025Z",
+    "ID": "55bbaa1b-7234-ad45-494b-37132f419fdf",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+state_read: {}
+lock: {
+    "Created": "2024-05-22T22:57:23.802654Z",
+    "ID": "328d1b3c-5e4c-367c-f944-2d04292e9972",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+unlock: {
+    "Created": "2024-05-22T22:57:23.802654Z",
+    "ID": "328d1b3c-5e4c-367c-f944-2d04292e9972",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+state_read: {}
+state_read: {}
+lock: {
+    "Created": "2024-05-22T23:02:15.588555Z",
+    "ID": "bc7bda56-e834-14d3-9fd1-b8bfd6ded7cd",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+unlock: {
+    "Created": "2024-05-22T23:02:15.588555Z",
+    "ID": "bc7bda56-e834-14d3-9fd1-b8bfd6ded7cd",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+lock: {
+    "Created": "2024-05-22T23:02:55.759804Z",
+    "ID": "c4864485-cee1-f61c-faf9-17d7197d68bd",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+state_write: {
+    "check_results": null,
+    "lineage": "736faddb-7c5a-d04c-d8d9-d3dda294c0cd",
+    "outputs": {},
+    "resources": [
+        {
+            "instances": [
+                {
+                    "attributes": {
+                        "ami": "ami-0b0ea68c435eb488d",
+                        "arn": "arn:aws:ec2:us-east-1:109607957842:instance/i-09cea20ca62e19474",
+                        "associate_public_ip_address": true,
+                        "availability_zone": "us-east-1a",
+                        "capacity_reservation_specification": [
+                            {
+                                "capacity_reservation_preference": "open",
+                                "capacity_reservation_target": []
+                            }
+                        ],
+                        "cpu_core_count": 1,
+                        "cpu_options": [
+                            {
+                                "amd_sev_snp": "",
+                                "core_count": 1,
+                                "threads_per_core": 1
+                            }
+                        ],
+                        "cpu_threads_per_core": 1,
+                        "credit_specification": [],
+                        "disable_api_stop": false,
+                        "disable_api_termination": false,
+                        "ebs_block_device": [],
+                        "ebs_optimized": false,
+                        "enclave_options": [
+                            {
+                                "enabled": false
+                            }
+                        ],
+                        "ephemeral_block_device": [],
+                        "get_password_data": false,
+                        "hibernation": false,
+                        "host_id": "",
+                        "host_resource_group_arn": null,
+                        "iam_instance_profile": "",
+                        "id": "i-09cea20ca62e19474",
+                        "instance_initiated_shutdown_behavior": "stop",
+                        "instance_lifecycle": "",
+                        "instance_market_options": [],
+                        "instance_state": "running",
+                        "instance_type": "t1.micro",
+                        "ipv6_address_count": 0,
+                        "ipv6_addresses": [],
+                        "key_name": "",
+                        "launch_template": [],
+                        "maintenance_options": [
+                            {
+                                "auto_recovery": "default"
+                            }
+                        ],
+                        "metadata_options": [
+                            {
+                                "http_endpoint": "enabled",
+                                "http_protocol_ipv6": "disabled",
+                                "http_put_response_hop_limit": 1,
+                                "http_tokens": "optional",
+                                "instance_metadata_tags": "disabled"
+                            }
+                        ],
+                        "monitoring": false,
+                        "network_interface": [],
+                        "outpost_arn": "",
+                        "password_data": "",
+                        "placement_group": "",
+                        "placement_partition_number": 0,
+                        "primary_network_interface_id": "eni-09ef226fc0a19437c",
+                        "private_dns": "ip-172-31-32-204.ec2.internal",
+                        "private_dns_name_options": [
+                            {
+                                "enable_resource_name_dns_a_record": false,
+                                "enable_resource_name_dns_aaaa_record": false,
+                                "hostname_type": "ip-name"
+                            }
+                        ],
+                        "private_ip": "172.31.32.204",
+                        "public_dns": "ec2-18-215-255-91.compute-1.amazonaws.com",
+                        "public_ip": "18.215.255.91",
+                        "root_block_device": [
+                            {
+                                "delete_on_termination": true,
+                                "device_name": "/dev/sda1",
+                                "encrypted": false,
+                                "iops": 100,
+                                "kms_key_id": "",
+                                "tags": null,
+                                "tags_all": {},
+                                "throughput": 0,
+                                "volume_id": "vol-026d84cac664837b1",
+                                "volume_size": 8,
+                                "volume_type": "gp2"
+                            }
+                        ],
+                        "secondary_private_ips": [],
+                        "security_groups": [
+                            "default"
+                        ],
+                        "source_dest_check": true,
+                        "spot_instance_request_id": "",
+                        "subnet_id": "subnet-0361236716243bd22",
+                        "tags": null,
+                        "tags_all": {},
+                        "tenancy": "default",
+                        "timeouts": null,
+                        "user_data": null,
+                        "user_data_base64": null,
+                        "user_data_replace_on_change": false,
+                        "volume_tags": null,
+                        "vpc_security_group_ids": [
+                            "sg-042e96102b6f30d1f"
+                        ]
+                    },
+                    "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjo2MDAwMDAwMDAwMDAsImRlbGV0ZSI6MTIwMDAwMDAwMDAwMCwicmVhZCI6OTAwMDAwMDAwMDAwLCJ1cGRhdGUiOjYwMDAwMDAwMDAwMH0sInNjaGVtYV92ZXJzaW9uIjoiMSJ9",
+                    "schema_version": 1,
+                    "sensitive_attributes": []
+                }
+            ],
+            "mode": "managed",
+            "name": "web_server",
+            "provider": "provider[\"registry.terraform.io/hashicorp/aws\"]",
+            "type": "aws_instance"
+        }
+    ],
+    "serial": 2,
+    "terraform_version": "1.8.3",
+    "version": 4
+}
+unlock: {
+    "Created": "2024-05-22T23:02:55.759804Z",
+    "ID": "c4864485-cee1-f61c-faf9-17d7197d68bd",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+lock: {
+    "Created": "2024-05-22T23:06:32.239993Z",
+    "ID": "c2e4f73f-d717-e958-5905-c6e542a210ad",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
+state_write: {
+    "check_results": null,
+    "lineage": "736faddb-7c5a-d04c-d8d9-d3dda294c0cd",
+    "outputs": {},
+    "resources": [],
+    "serial": 3,
+    "terraform_version": "1.8.3",
+    "version": 4
+}
+unlock: {
+    "Created": "2024-05-22T23:06:32.239993Z",
+    "ID": "c2e4f73f-d717-e958-5905-c6e542a210ad",
+    "Info": "",
+    "Operation": "OperationTypeApply",
+    "Path": "",
+    "Version": "1.8.3",
+    "Who": "bigben@Bennehs-MacBook-Air.local"
+}
+state_read: {}
